@@ -30,3 +30,14 @@ public class product
             System.out.println("Lowest product ID is:" + p2.pcode);
     }
 }
+
+                                              
+
+                                                    ___OUTPUT__
+ C:\Users\mlm\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=51105:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 
+     -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\Idrojects\bibn\out\production\bibn 
+                                                       
+productLowest product ID is:A123
+
+Process finished with exit code 0
+

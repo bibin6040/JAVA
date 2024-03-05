@@ -34,3 +34,30 @@ class Arraysearch
         }
     }
 }
+
+
+
+                                           output
+
+C:\Users\mlm\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=52646:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\IdeaProjects\j2\out\production\j2 Arraysearch
+Enter the Array Limit :4
+Element of a[0] :1
+Element of a[1] :2
+Element of a[2] :3
+Element of a[3] :4
+Enter the Search Array Element :3
+The Element is found in the position : 3
+The Element is found in the index : 2
+Process finished with exit code 0
+
+C:\Users\mlm\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=52651:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\IdeaProjects\j2\out\production\j2 Arraysearch
+Enter the Array Limit :4
+Element of a[0] :1
+Element of a[1] :2
+Element of a[2] :3
+Element of a[3] :4
+Enter the Search Array Element :6
+The Element is Not found
+
+Process finished with exit code 0
+

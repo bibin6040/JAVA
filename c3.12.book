@@ -57,3 +57,22 @@ public class Main {
         scanner.close();
     }
 }
+
+
+
+                                     OUTPUT
+=======================================================================
+
+C:\Users\mlm\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\lib\idea_rt.jar=52031:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\mlm\IdeaProjects\j2\out\production\j2 Main
+Literature Book Details:
+Publisher: Penguin
+Book Name: To Kill a Mockingbird
+Year: 1960
+
+Fiction Book Details:
+Publisher: HarperCollins
+Book Name: Harry Potter and the Philosopher's Stone
+Year: 1997
+
+Process finished with exit code 0
+
